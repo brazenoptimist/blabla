@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/appxpy/Desktop/Study/blabla/build",
+  "command": "/opt/homebrew/opt/llvm@14/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/test_project.dir/tests.cpp.o -c /Users/appxpy/Desktop/Study/blabla/tests.cpp",
+  "file": "/Users/appxpy/Desktop/Study/blabla/tests.cpp"
+},
+{
+  "directory": "/Users/appxpy/Desktop/Study/blabla/build",
+  "command": "/opt/homebrew/opt/llvm@14/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/test_project.dir/f1.cpp.o -c /Users/appxpy/Desktop/Study/blabla/f1.cpp",
+  "file": "/Users/appxpy/Desktop/Study/blabla/f1.cpp"
+},
+{
+  "directory": "/Users/appxpy/Desktop/Study/blabla/build",
+  "command": "/opt/homebrew/opt/llvm@14/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/test_project.dir/f2.cpp.o -c /Users/appxpy/Desktop/Study/blabla/f2.cpp",
+  "file": "/Users/appxpy/Desktop/Study/blabla/f2.cpp"
+}
+]
