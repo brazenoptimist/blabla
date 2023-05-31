@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(test_project VERSION 0.1.0)
+
+include(CTest)
+enable_testing()
+
+set(CPACK_PROJECT_NAME ${PROJECT_NAME})
+set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
+include(CPack)
+
+enable_testing()
+add_executable(test_project tests.cpp f1.cpp f1.h f2.cpp f2.h doctest.h)
